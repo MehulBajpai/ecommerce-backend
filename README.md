@@ -1,5 +1,5 @@
 # ecommerce-backend
-1. I have used node.js with express framework.
+1. I have used node.js with express framework and npm package.
 2. MongoDB is used to connect it with database.
 3. You can look at the database through the application MongoDB Compass with localhost:2717/
 4. The programming language used is JavaScript.
